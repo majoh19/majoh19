@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Majo! :wave:</h1>
 
-## Skills
+## 💻 Skills
 
 ### Languages:
 
@@ -41,7 +41,7 @@
 
 &emsp;
 
-## Me around the web:
+## 🌐 Me around the web:
 
 &emsp;
 <a href="https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-hern%C3%A1ndez-054740215/">
@@ -53,7 +53,7 @@
 
 &emsp;
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
 &emsp;
 <img  width="47%" align="left" height="192px" src="https://github-readme-stats.vercel.app/api?username=majoh19&show_icons=true&theme=radical" />
@@ -66,6 +66,14 @@
 <!--
 Source
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/edit/master/templates/0xabdulkhalid.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Berkeli.md
+
 Markdown Badges
 https://ileriayo.github.io/markdown-badges/
+
+GitHub Stats Card
+https://github.com/anuraghazra/github-readme-stats
+
+Emojis
+https://github.com/ikatyang/emoji-cheat-sheet
 -->
