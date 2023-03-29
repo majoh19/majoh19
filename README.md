@@ -56,8 +56,8 @@
 ## 📊 My GitHub Stats
 
 &emsp;
-<img  width="47%" align="left" height="192px" src="https://github-readme-stats.vercel.app/api?username=majoh19&show_icons=true&theme=radical" />
-<img  width="47%" align="left" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majoh19&layout=compact&theme=radical" />
+<img  width="47%" align="left"  src="https://github-readme-stats.vercel.app/api?username=majoh19&show_icons=true&theme=radical" />
+<img  width="47%" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=majoh19&layout=compact&theme=radical" />
 
 &emsp;
 
