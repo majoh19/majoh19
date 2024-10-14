@@ -56,7 +56,6 @@
 ## 📊 My GitHub Stats
 
 &emsp;
-<img alt="Majo's GitHub Stats" height="192px" align="left" src="https://github-readme-stats.vercel.app/api?username=majoh19&show_icons=true&theme=radical" />
 <img alt="Majo's Top Languages" height="192px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majoh19&layout=compact&theme=radical" />
 
 &emsp;
